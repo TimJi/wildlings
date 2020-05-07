@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wildlings/static/css/main.chunk.css",
+    "main.js": "/wildlings/static/js/main.wildlings.chunk.js",
+    "main.js.map": "/wildlings/static/js/main.wildlings.chunk.js.map",
+    "runtime~main.js": "/wildlings/static/js/wildlings.bundle.js",
+    "runtime~main.js.map": "/wildlings/static/js/wildlings.bundle.js.map",
+    "static/css/2.chunk.css": "/wildlings/static/css/2.chunk.css",
+    "static/js/2.wildlings.chunk.js": "/wildlings/static/js/2.wildlings.chunk.js",
+    "static/js/2.wildlings.chunk.js.map": "/wildlings/static/js/2.wildlings.chunk.js.map",
+    "index.html": "/wildlings/index.html",
+    "precache-manifest.21fed65bc400bd8d0230dded683ac783.js": "/wildlings/precache-manifest.21fed65bc400bd8d0230dded683ac783.js",
+    "service-worker.js": "/wildlings/service-worker.js",
+    "static/css/2.chunk.css.map": "/wildlings/static/css/2.chunk.css.map",
+    "static/css/main.chunk.css.map": "/wildlings/static/css/main.chunk.css.map"
+  }
+}
